@@ -1,0 +1,45 @@
+html {
+background-color: #AED6F1;
+}
+/* decorates the whole website background */
+
+.frame{
+border: 1rem solid black;
+box-sizing: border-box;
+margin: 5rem auto;
+padding: 3rem; 
+max-width: 60rem;
+background-color: white;
+}
+/* decorates frame */
+
+h1{
+text-align: center;
+font-family: segoe script;
+color: #AED6F1;
+font-size: 250%;
+vertical-align: top;
+}
+
+.info{
+font-family: Verdana;
+font-size: 100%;
+display: inline-block;
+vertical-align: top;
+}
+/* decorates class "info */
+
+.img {
+margin-right: 2rem;
+}
+
+.exitbutton{
+font-family: Verdana;
+background-color: #AED6F1;
+border: 1px solid black;
+color: black;
+text-align: center;
+font-size: 18px;
+padding: 6px 6px;
+}
+/* exitbutton */
